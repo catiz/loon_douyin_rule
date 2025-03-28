@@ -3,14 +3,15 @@
 # REPO: https://github.com/catiz/loon_douyin_rule
 # UPDATED: 2025-03-27 18:30:40
 # DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 22
-# TOTAL: 27
+# DOMAIN-SUFFIX: 23
+# TOTAL: 28
 
 DOMAIN-KEYWORD,byte
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,huoshan
 DOMAIN-KEYWORD,ixigua
 DOMAIN-KEYWORD,toutiao
+DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,ecombdapi.com
