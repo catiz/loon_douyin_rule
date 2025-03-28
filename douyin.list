@@ -3,8 +3,8 @@
 # REPO: https://github.com/catiz/loon_douyin_rule
 # UPDATED: 2025-03-27 18:30:40
 # DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 17
-# TOTAL: 22
+# DOMAIN-SUFFIX: 19
+# TOTAL: 24
 
 DOMAIN-KEYWORD,byte
 DOMAIN-KEYWORD,douyin
@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,awemeugwave.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,iluckysf.net
 DOMAIN-SUFFIX,amemv.cn
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,tiapi.cn
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,amemv.com
